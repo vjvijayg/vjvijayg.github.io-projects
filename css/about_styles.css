@@ -3,6 +3,21 @@
   font-family: 'zocial', sans-serif;
 }
 
+.starter-template h1 {
+  font-family: initial;
+  font-variant-caps: inherit;
+  text-transform: uppercase;
+  font-weight: 100;
+}
+
+.lead {
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.4;
+    font-family: cursive;
+}
+
 #myphoto {
   width: 50%;
 }
