@@ -3,6 +3,10 @@
   font-family: 'zocial', sans-serif;
 }
 
+body {
+  font-family: 'Lato', sans-serif;
+}
+
 .starter-template h1 {
   font-family: initial;
   font-variant-caps: inherit;
